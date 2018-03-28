@@ -1,9 +1,0 @@
-MeArm Controller
-X	Horizontal	3	SLIDER	X-Achse	0	1.0	0.0
-Y	Forward	3	SLIDER	Y-Achse	0	1.0	0.0
-Z	Vertical	3	SLIDER	Y-Rotation	0	1.0	0.0
-Trigger	Claw	3	SLIDER	Z-Achse	0	1.0	0.0
-A Button	Close	1	BUTTON	Taste 0	0	0.0	0.0
-B Button	Open	1	BUTTON	Taste 1	0	0.0	0.0
-Y Button	Reset	1	BUTTON	Taste 3	0	0.0	0.0
-Positions	Save and set Positions	2	HAT	cooliehat: Mehrwegeschalter	0	1.0	0.0

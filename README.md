@@ -1,6 +1,6 @@
 # robotic-arm-control
 
-**German tutorial coming soon!**
+**German tutorial can be found [here](https://ckatins.de/2018/04/04/tischroboterarm.html)!**
 
 This software makes is possible to control a small robotic arm with a GUI or a XBOX 360 controller.
 
